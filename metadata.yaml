@@ -1,0 +1,40 @@
+_repo: The-Ethics-of-Aristotle_8438
+creator:
+  author:
+    agent_name: Aristotle
+    aliases:
+    - Aristoteles
+    - Αριστοτέλης
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aristotle
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+description: A vigorous polemicist as well as a rational philosopher, Aristotle (384
+  - 322 BCE) has the task in his ethics of demonstrating how men become good and why
+  happiness can, and should, be our goal. The success of Aristotle's endeavour may
+  be measured by the enormous impact of his ethics on Western moral philosophy through
+  the centuries. Composed as mere lecture notes, it possesses a startling boldness
+  and represents an exacting, exciting challenge to the reader. By converting ethics
+  from a theoretical to a practical science, and by introducing psychology into his
+  study of behaviour, Aristotle both widens the field of moral philosophy and simultaneously
+  makes it more accessible to anyone who seeks an understanding of human nature. -Amazon.com.
+gutenberg_bookshelf:
+- Philosophy
+- Classical Antiquity
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Ethics'
+- !lcc 'PA'
+title: The Ethics of Aristotle
+url: http://www.gutenberg.org/ebooks/8438
