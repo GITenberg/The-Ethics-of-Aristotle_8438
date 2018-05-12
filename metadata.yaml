@@ -1,4 +1,8 @@
 _repo: The-Ethics-of-Aristotle_8438
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aristotle
@@ -21,6 +25,8 @@ description: A vigorous polemicist as well as a rational philosopher, Aristotle 
   from a theoretical to a practical science, and by introducing psychology into his
   study of behaviour, Aristotle both widens the field of moral philosophy and simultaneously
   makes it more accessible to anyone who seeks an understanding of human nature. -Amazon.com.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8438#The-Ethics-of-Aristotle
 gutenberg_bookshelf:
 - Philosophy
 - Classical Antiquity
